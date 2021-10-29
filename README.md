@@ -1,9 +1,6 @@
-# tcc_2018_ufc_quixada
-
-
 <h1 align="center">TCC 2018</h1>
 
-<p align="center">Códigos do meu Trabalho de Conclusão de Curso em Redes de Computadores pela UFC em 2018. Os arquivos bulk-drop.cc e bulk-red.cc criam e executam os cenários que geram arquivos .tr. Já o script.sh extrai inforações de recebimento de mensagens contidas no arquivo .tr guardando-as em um documento de texto.</p>
+<p align="center">Códigos do meu Trabalho de Conclusão de Curso em Redes de Computadores pela UFC em 2018. Os arquivos bulk-drop.cc e bulk-red.cc criam e executam os cenários que geram arquivos .tr. Já o script.sh extrai inforações de recebimento de mensagens contidas no arquivo .tr guardando-as em um documento de texto. O TCC está disponível em: http://www.repositorio.ufc.br/handle/riufc/39456</p>
 
 ### Status
 <h4 align="center"> 
